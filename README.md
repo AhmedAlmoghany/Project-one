@@ -1,2 +1,2 @@
 # Project-one
-First Front End project
+news website by ajax technique
