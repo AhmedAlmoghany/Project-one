@@ -1,2 +1,2 @@
 # Project-one
-First Front End project
+Creating slider by javascript
