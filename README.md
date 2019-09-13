@@ -1,2 +1,2 @@
 # Project-one
-First Front End project
+add , remove ,edit and search products by javascript
