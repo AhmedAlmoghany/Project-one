@@ -1,0 +1,35 @@
+.caption{
+    position:absolute;
+    top:60%;
+    bottom:5%;
+    width:80%;
+    left:10%;
+    background-color: #fff;
+}
+.item{
+    position:relative;
+    margin-top: 20px;
+}
+.item-container{
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    position: fixed;
+    background-color: rgba(0,0,0,0.5);
+    display:none !important;
+}
+.light-item{
+    width:50%;
+    height:500px;
+    background-image: url("portfolio-1.jpg");
+    background-size: cover;
+}
+#close{
+    position:absolute;
+    top:10px;
+    right:10px;
+}
+.show{
+    display: flex !important;
+}
